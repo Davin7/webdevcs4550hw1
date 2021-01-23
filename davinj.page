@@ -1,0 +1,14 @@
+server {
+	listen 80;
+	listen [::]:80;
+	
+	root /home/davinadmin/www/davinj.page;
+
+	index index.html;
+	
+	server_name davinj.page www.davinj.page;
+
+	location / {
+		try_files $uri/ =404;
+	}
+}
