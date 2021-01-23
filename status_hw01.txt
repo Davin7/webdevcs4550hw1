@@ -1,0 +1,33 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name?
+Davin Jimeno
+
+2. Which VPS & domain providers did you choose?
+Vultr and Google Domains
+
+3. What domain name did you register?
+davinj.page
+
+4. What's the URL of your Github repository for this assignment?
+https://github.com/Davin7/webdevcs4550hw1
+
+5. Which parts of this assignment did you have trouble with, if any?
+I could not get the hw01/davinj.page site working and my provider's
+DNS server did not successfully forward my site's domain name to
+the IP I defined.
+
+I was able to get nginx to serve the index site at 45.76.3.100
+
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
+ - Task 9
